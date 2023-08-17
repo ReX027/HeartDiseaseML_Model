@@ -23,13 +23,13 @@ Table of Contents
 <a name="getting-started"></a>
 3.Getting Started -> To use the "Heart Disease Prediction" model, follow these steps:
 
-                     - Installation: Clone this repository and navigate to the project directory.
-                                     git clone https://github.com/ReX027/heartDiseaseML_Model.git
-                                     cd heartDiseaseML_Model
-                     - Setup: Create a virtual environment and install dependencies.
-                     - Data Preparation: Prepare your input data in CSV format with required attributes.
-                     - Model Training: Train the machine learning model using the prepared dataset.
-                                       python train_model.py
+             - Installation: Clone this repository and navigate to the project directory.
+                             git clone https://github.com/ReX027/heartDiseaseML_Model.git
+                             cd heartDiseaseML_Model
+             - Setup: Create a virtual environment and install dependencies.
+             - Data Preparation: Prepare your input data in CSV format with required attributes.
+             - Model Training: Train the machine learning model using the prepared dataset.
+                               python train_model.py
                                        
 <a name="usage"></a>
 4.Usage -> Once the model is trained, you can make predictions using the following steps:
