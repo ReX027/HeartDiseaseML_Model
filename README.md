@@ -1,7 +1,9 @@
 # HeartDiseaseML_Model
 ML Model to predict which patients are most likely to suffer from a heart disease in the near future using the features given.
-Heart Disease Prediction
-  - Predicting the likelihood of heart disease using machine learning.
+
+Heart Disease Prediction -
+Predicting the likelihood of heart disease using machine learning.
+
 Table of Contents
   - Introduction
   - Features
@@ -26,12 +28,12 @@ Table of Contents
                                        python train_model.py
 
 4.Usage -> Once the model is trained, you can make predictions using the following steps:
-           Load Model: 
+           - Load Model: 
                        from heart_disease_model import HeartDiseaseModel
                        model = HeartDiseaseModel.load_model('model.pkl')
 
-           Input Data: Prepare input data with attributes like age, sex, chest pain type, etc.
-           Make Prediction: Use the loaded model to make predictions.
+           - Prepare input data with attributes like age, sex, chest pain type, etc.
+           - Use the loaded model to make predictions.
 
 5.Contributing -> Contributions are welcome! To contribute to the "Heart Disease Prediction" project:
                   - Report any issues or bugs by opening an issue.
