@@ -19,6 +19,7 @@ Table of Contents
               Output: Provides a probability score indicating the likelihood of heart disease.
 
 3.Getting Started -> To use the "Heart Disease Prediction" model, follow these steps:
+
                      - Installation: Clone this repository and navigate to the project directory.
                                      git clone https://github.com/ReX027/heartDiseaseML_Model.git
                                      cd heartDiseaseML_Model
