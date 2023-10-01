@@ -47,4 +47,4 @@ Table of Contents
                   - Follow the coding and testing standards outlined in the project.
                   
 <a name="contact"></a>
-6.Contact -> For questions or suggestions, feel free to contact us at tushar.vaid027@gmail.com
+6.Contact -> For questions or suggestions, feel free to contact me at tushar.vaid027@gmail.com
